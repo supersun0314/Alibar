@@ -1,0 +1,19 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="icon">
+    <image src="../../Images/icon.jpg" mode="aspectFit"/>
+  </view>
+
+  <view class="inputs">
+    <text>请输入用户名</text>
+    <input class="account" placeholder="账户" value="{{account}}" bindinput="accountHandler" style="account"/>
+    <text>密码</text>
+    <input class="password" placeholder="密码" value="{{password}}" bindinput="passwordHandler" style="password"/>
+  </view>
+
+  <view class="Btn">
+    <button class="loginBtn" catchtap="OnLoginBtnClick">登陆</button>
+    <button class="registerBtn" catchtap="OnRegisterClick">注册</button>
+  </view>
+  
+</view>
