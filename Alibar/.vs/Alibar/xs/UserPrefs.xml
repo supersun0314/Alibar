@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{E6E61A4F-A2C8-95E7-F0BF-DD95006CC33C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/Scripts/UIBase.cs">
+    <Files>
+      <File FileName="Assets/Resources/Scripts/MainMenu.cs" Line="80" Column="16" />
+      <File FileName="Assets/Resources/Scripts/UIBase.cs" Line="61" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Alibar" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="MainMenu.cs" selected="True" />
+                </Node>
+                <Node name="UI" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="93f36152-f735-4a32-aaac-d749f63f6df1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/yalla/Desktop/ALIBAR/Alibar/Assets/Resources/Scripts/MainMenu.cs" relfile="Assets/Resources/Scripts/MainMenu.cs" line="60" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
